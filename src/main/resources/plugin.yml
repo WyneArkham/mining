@@ -1,0 +1,6 @@
+name: mines-plugin
+version: ${project.version}
+main: io.github.ardryck.mining.MiningPlugin
+authors: [ Ardryck ]
+depend:
+  - mcMMO

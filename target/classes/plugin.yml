@@ -1,0 +1,6 @@
+author: wheregui
+name: mines-plugin
+version: 0.3
+main: me.wheregui.mines.HyzenPlugin
+depend:
+  - mcMMO
